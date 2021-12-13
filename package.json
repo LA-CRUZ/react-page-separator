@@ -1,6 +1,9 @@
 {
 	"name": "@LA-CRUZ/react-page-separator",
 	"version": "0.0.0",
+	"publishConfig": {
+		"@la-cruz:registry": "https://npm.pkg.github.com"
+	},
 	"private": true,
 	"scripts": {
 		"dev": "vite",
