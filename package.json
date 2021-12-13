@@ -1,10 +1,20 @@
 {
-	"name": "@LA-CRUZ/react-page-separator",
-	"version": "0.0.0",
-	"publishConfig": {
-		"@la-cruz:registry": "https://npm.pkg.github.com"
+	"name": "@lacruz/react-page-separator",
+	"version": "0.0.2",
+	"description": "react-page plugin adding a customisable horizontal separator",
+	"author": "lacruz",
+	"keywords": [
+		"react",
+		"react-page",
+		"plugins",
+		"separator"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/LA-CRUZ/react-page-separator#readme",
+	"bugs": {
+		"url": "https://github.com/LA-CRUZ/react-page-separator/issues"
 	},
-	"private": true,
+	"main": "src/index.js",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
